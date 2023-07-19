@@ -34,7 +34,7 @@ include '../config/connect.php';
                             <a href="index-input-data.php" class="hover:text-slate-600 ">Tambah Data</a>
                         </li>
                         <li>
-                        <a href="../config/logout-admin.php" class="hover:text-slate-600">Log Out</a>
+                            <a href="../config/logout-admin.php" class="hover:text-slate-600">Log Out</a>
                         </li>
                     </ul>
                     <label class="swap swap-rotate">
