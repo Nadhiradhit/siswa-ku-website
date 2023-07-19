@@ -1,0 +1,10 @@
+<?php
+include "connect.php";
+
+session_start();
+
+if(session_destroy()){
+    header("location:../public/index.php");
+}
+
+?>
